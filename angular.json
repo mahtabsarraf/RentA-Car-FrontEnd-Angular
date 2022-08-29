@@ -130,5 +130,8 @@
       }
     }
   },
-  "defaultProject": "RentACar-FrontEnd"
+  "defaultProject": "RentACar-FrontEnd",
+  "cli": {
+    "analytics": "1c409c59-05a0-4b23-9ef7-33904af85daa"
+  }
 }
